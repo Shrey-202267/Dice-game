@@ -1,0 +1,49 @@
+body{
+  text-align: center;
+  background-color: #393E46;
+  color:#4ECCA3;
+}
+
+footer{
+  padding: 2% 15%;
+  color: #fff;
+  font-family: 'Indie Flower', cursive;
+}
+
+h1{
+  text-shadow: 5px 0px #232931;
+  font-family: 'Lobster', cursive;
+  font-size: 6rem;
+}
+
+p{
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+}
+#title{
+  padding: 2% 17%;
+}
+
+#middle{
+  padding: 2% 22%;
+}
+
+#function{
+  padding: 1% 15%;
+
+}
+
+.modified{
+  padding: 0.5rem 2.5rem;
+  color:#4ECCA3;
+  border-color: #4ECCA3;
+}
+
+.modified:hover{
+  background-color: #4ECCA3;
+  color: #232931;
+  border-color: #4ECCA3;
+}
+.player{
+  padding: 10px;
+}
